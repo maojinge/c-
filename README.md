@@ -1,2 +1,2 @@
 # c-
-這是我大學期間寫的實例
+This is a project I built during my time at college.
